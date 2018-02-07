@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="wordPath_Aakash">
+    <output-path>$PROJECT_DIR$/out/artifacts/wordPath_Aakash</output-path>
+    <root id="archive" name="wordPath_Aakash.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/Node.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/Wordpath.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/ReadMe.txt" />
+      <element id="module-output" name="Wordpath" />
+    </root>
+  </artifact>
+</component>
